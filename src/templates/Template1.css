@@ -1,0 +1,99 @@
+.card-container {
+    width: 350px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    font-family: Arial, sans-serif;
+    color: #333;
+  }
+  
+  .header {
+    background-color: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .subtitle {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 15px;
+  }
+  
+  .follow-me {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    display: inline-block;
+  }
+  
+  .image-container {
+    padding: 15px;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin: 10px auto;
+  }
+  
+  .card-number {
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+  }
+  
+  .card-number p:first-child {
+    font-weight: bold;
+  }
+  
+  .social-links {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    background-color: #f0f0f0;
+  }
+  
+  .social-link {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .actions {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+  }
+  
+  .action-button {
+    background-color: #e0e0e0;
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    margin: 5px 0;
+    cursor: pointer;
+  }
+  
+  .contact-info {
+    background-color: #f5f5f5;
+    padding: 15px;
+  }
+  
+  .contact-info p {
+    margin: 5px 0;
+  }
+  
+  .map-location {
+    background-color: #e0e0e0;
+    padding: 15px;
+  }

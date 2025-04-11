@@ -1,0 +1,8 @@
+.alert {
+  background-color: #f0f0f0; /* رنگ پس‌زمینه */
+  border: 1px solid #ccc; /* حاشیه */
+  padding: 10px; /* فاصله داخلی */
+  margin-top: 20px; /* فاصله از بالا */
+  text-align: center; /* تراز متن */
+  box-shadow: none; /* سایه */
+}
